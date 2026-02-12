@@ -36,7 +36,7 @@ A responsive movie web application built with:
 - Error-boundary style redirection
 - Responsive layout
 
-See it in action here: https://dburnham1212.github.io/react-movies/
+**See it in action here: https://dburnham1212.github.io/react-movies/**
 ---
 
 ### 🛠️ Helpdesk Web Application (WIP)
