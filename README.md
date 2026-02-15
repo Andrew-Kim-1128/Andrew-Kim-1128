@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Andrew Kim
+# Hi there, I'm Andrew Kim
 
-📍 Kingston, Ontario  
-🎓 Computer Programming & Analysis Student (4.0 GPA) – St. Lawrence College  
-🎓 B.A. (Hons.) Literary Analysis – Queen’s University  
+Kingston, Ontario  
+Computer Programming & Analysis Student (4.0 GPA) – St. Lawrence College  
+B.A. (Hons.) Literary Analysis – Queen’s University  
 
 ## About Me
 
@@ -20,7 +20,7 @@ I’m an aspiring full-stack developer, and current Computer Programming student
 
 ## 📌 Current Projects
 
-### 🎬 React Movies (2025–2026, key contributor)
+### React Movies (2025–2026, key contributor)
 
 A responsive movie web application built with:
 
@@ -39,7 +39,7 @@ A responsive movie web application built with:
 - https://dburnham1212.github.io/react-movies/
 ---
 
-### 🛠️ Helpdesk Web Application (WIP)
+### Helpdesk Web Application (WIP)
 
 A full-stack ticketing system built with:
 
@@ -62,9 +62,9 @@ Designed to simulate a real-world internal IT helpdesk environment.
 
 ---
 
-## 🛠️ Languages & Technologies
+## Languages & Technologies
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -73,7 +73,7 @@ Designed to simulate a real-world internal IT helpdesk environment.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Web & Frontend
+### Web & Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -81,12 +81,12 @@ Designed to simulate a real-world internal IT helpdesk environment.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8E44AD?style=for-the-badge)
 
-### 🗄️ Databases
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -95,26 +95,26 @@ Designed to simulate a real-world internal IT helpdesk environment.
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 
-## 🏆 Experience
+## Experience
 
-### 🧑‍⚖️ SLC Coding Competition Judge & Scorekeeper (2025)
+### SLC Coding Competition Judge & Scorekeeper (2025)
 - Evaluated projects for accuracy and efficiency
 - Provided structured feedback
 - Coordinated scoring logistics
 
-### 🍣 Line Cook / General Staff – Sushiya Zen
+### Line Cook / General Staff – Sushiya Zen
 - Worked in high-pressure environments
 - Maintained workflow efficiency
 - Developed teamwork & communication skills
 
 ---
 
-## 📫 Contact Me!
+## Contact Me!
 
-📧 Work email: Seungmkim1128@gmail.com
-📧 School email: Andrew.kim@student.sl.on.ca  
-📱 613-583-9808  
-🔗 Linkedin: https://www.linkedin.com/in/andrew-kim1128/
+Work email: Seungmkim1128@gmail.com
+School email: Andrew.kim@student.sl.on.ca  
+Phone: 613-583-9808  
+Linkedin: https://www.linkedin.com/in/andrew-kim1128/
 
 ---
 
