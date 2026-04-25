@@ -1,7 +1,7 @@
 # Hi there, I'm Andrew Kim
 
 Kingston, Ontario  
-Computer Programming & Analysis Student (4.0 GPA) – St. Lawrence College  
+Computer Programming & Analysis Student (3.9 GPA) – St. Lawrence College  
 B.A. (Hons.) Literary Analysis – Queen’s University  
 
 ## About Me
