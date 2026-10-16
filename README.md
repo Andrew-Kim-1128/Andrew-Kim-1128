@@ -96,7 +96,7 @@ Designed to simulate a real-world internal IT helpdesk environment.
 
 
 ## Experience
-### Junior Web Developer Intern (2026 may - current)
+### Junior Web Developer Intern (2026 may - current) - Fenix Alma Solutions Inc.
 ### SLC Coding Competition Judge & Scorekeeper (2025)
 - Evaluated projects for accuracy and efficiency
 - Provided structured feedback
